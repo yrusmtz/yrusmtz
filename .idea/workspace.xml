@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48dcf434-4f22-436c-b3fa-d39d029ffd49" name="Changes" comment="Add new style.css file for the website design&#10;&#10;Added a new css stylesheet to create the new design of the website. This file contains all the styles used for different webpages and helps in maintaining a consistent theme throughout our website. The style.css includes styles for various elements such as body, headers, links, and multiple custom classes." />
+    <list default="true" id="48dcf434-4f22-436c-b3fa-d39d029ffd49" name="Changes" comment="Add new style.css file for the website design&#10;&#10;Added a new css stylesheet to create the new design of the website. This file contains all the styles used for different webpages and helps in maintaining a consistent theme throughout our website. The style.css includes styles for various elements such as body, headers, links, and multiple custom classes.">
+      <change afterPath="$PROJECT_DIR$/docs/img/apicat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/img/javaSTest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/img/odooSury.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/surynam.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/surynam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +36,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/suryname",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/suryname/docs/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +47,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\suryname\docs\img" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +64,8 @@
       <workItem from="1706702009098" duration="433000" />
       <workItem from="1706702456670" duration="228000" />
       <workItem from="1706702719440" duration="1225000" />
+      <workItem from="1706703962659" duration="3571000" />
+      <workItem from="1706709448293" duration="4565000" />
     </task>
     <task id="LOCAL-00001" summary="Add new style.css file for the website design&#10;&#10;Added a new css stylesheet to create the new design of the website. This file contains all the styles used for different webpages and helps in maintaining a consistent theme throughout our website. The style.css includes styles for various elements such as body, headers, links, and multiple custom classes.">
       <option name="closed" value="true" />
@@ -60,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706702169381</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add new style.css file for the website design&#10;&#10;Added a new css stylesheet to create the new design of the website. This file contains all the styles used for different webpages and helps in maintaining a consistent theme throughout our website. The style.css includes styles for various elements such as body, headers, links, and multiple custom classes.">
+      <option name="closed" value="true" />
+      <created>1706704073023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706704073023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
